@@ -40,3 +40,19 @@ Based on the three models established, this project provides some recommendation
 2. **Update and expand** the current database with more symptom descriptions from more patients. Also, consider adding more disease labels to the database.
 
 3. **Develop image classification** via computer vision, providing more informative predictions in conjunction to the text-driven diagonsis predictions from this project.
+
+If you have any questions, please contact:
+
+Sangyun (Yun) Thom: [sangyun.thom@gmail.com](mailto:sangyun.thom@gmail.com)
+
+## Repository Structure
+
+├── .gitignore
+
+├── README.md
+
+├── images
+
+├── index.ipynb
+
+├── Symptom2Disease.csv
